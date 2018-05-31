@@ -1,0 +1,71 @@
+"http://feeds.feedburner.com/eset/blog"
+Site - welivesecurity.com
+About Site - WeLiveSecurity is an IT security site covering the latest news, research, cyber threats and malware discoveries, with insights from ESET experts.
+Frequency - about 8 posts per week
+"https://securingtomorrow.mcafee.com/feed"
+Site - securingtomorrow.mcafee.com
+Santa Clara, CA
+About Site - Security news and resources on solutions for your small business or enterprise. McAfee is now part of Intel Security. 
+Frequency - about 12 posts per week
+"http://krebsonsecurity.com/feed/"
+Site - krebsonsecurity.com
+The Underweb
+About Site - Brian Krebs is a household name in information security, and his blog is among the most well known and respected in the space. A daily blog dedicated to investigative stories on cybercrime and computer security.
+Frequency - about 3 posts per week
+"http://www.darkreading.com/rss/all.xml"
+Site - darkreading.com
+Manhasset, NY
+About Site - Dark Reading is the premier online resource helping information security professionals manage the balance between protection and access. It offers breaking news and analysis on attacks, breaches and vulnerabilities, as well as strategies for protecting enterprise data. It also offers guidance on setting risk management and compliance policies.
+Frequency - about 28 posts per week
+"https://threatpost.com/feed"
+Site - threatpost.com
+About Site - Threatpost, is an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals
+Frequency - about 10 posts per week
+"http://nakedsecurity.sophos.com/feed/"
+Site - nakedsecurity.sophos.com
+About Site - Naked Security is Sophos's threat news room. We'll warn you about all kinds of bad computer threats, including the latest Facebook scams and rogue apps. 
+Frequency - about 21 posts per week
+"https://www.grahamcluley.com/feed"
+Site - grahamcluley.com
+Oxford, UK
+About Site - If your computer, and the data on it, is important to you - keep yourself informed about the latest security news by following Graham Cluley Security blog from veteran anti-virus expert Graham Cluley.
+Frequency - about 8 posts per week
+"http://www.infosecurity-magazine.com/rss/news/"
+Site - infosecurity-magazine.com
+London and New York
+About Site - Infosecurity Magazine is the award winning online magazine dedicated to the strategy, insight and technology of information security
+Frequency - about 34 posts per week
+"http://www.csoonline.com/index.rss"
+Site - csoonline.com
+Framingham, Mass.
+About Site - CSO, from IDG, provides news, analysis and research on a range of security and risk management topics. Areas of focus include information security, data protection, social media security, social engineering, security awareness, business continuity and more.
+Frequency - about 42 posts per week
+"https://www.symantec.com/connect/item-feeds/all/all/feed/all/all/all"
+Site - symantec.com/connect/symante..
+Mountain View, California
+About Site - Our security research centers around the world provide unparalleled analysis of and protection from malware, security risks, vulnerabilities, and spam.
+Frequency - about 168 posts per week
+"http://securityaffairs.co/wordpress/feed"
+Site - securityaffairs.co/wordpress
+Napoli, Italy
+About Site - This website is dedicated to everything digital forensics, from hacking to cybersecurity. Every day, readers can get new information on the digital forensics front – often with headlines pulled straight from top-tier media. This site also touts a large database of research on cyber threats, from international security spending to the most damaging cyber attacks of the year.
+Frequency - about 28 posts per week
+"http://www.cio.com/category/security/index.rss"
+Site - cio.com/category/security
+Boston, Mass.
+About Site - CIO is the place where you find news, information technology articles, insight and analysis on major data breaches and online threats. Covering multiple aspects of world wide web, it provides in-depth, content rich information for IT professionals and normal users.
+Frequency - about 2 posts per week
+"http://software-security.sans.org/blog/feed/"
+Site - software-security.sans.org/blog
+About Site - SANS Software Security provides training, certification, research and community initiatives that help IT specialists build secure applications.
+Frequency - about 1 post per month
+"http://www.zonealarm.com/blog/index.php/feed/"
+Site - zonealarm.com/blog
+San Carlos, CA
+About Site - News and information about internet security, online threats and safe web practices. ZoneAlarm is a world leader in firewall & antivirus software, and mobile security.
+Frequency - about 3 posts per month
+"https://www.troyhunt.com/feed"
+Site - troyhunt.com
+Australia
+About Site - Troy Hunt’s blog showcases a lot of the different issues with which he is familiar. He is a Microsoft MVP and Pluralsight author whose credentials also include working with Pfizer. His blog posts focus on customer and individual user interfaces and security. Written with an approachable tone, this blog is a great one for the non-technical c-suite reader.
+Frequency - about 2 posts per week

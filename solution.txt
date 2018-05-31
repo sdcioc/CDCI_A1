@@ -1,0 +1,20 @@
+https://blog.feedspot.com/cyber_security_rss_feeds/
+
+Ciocirlan Stefan-Dan SRIC - Assigment 1 CDCI
+Pentru rezolvarea acestei temei în primul rând am căutat surse pentr informații. 
+Pe site-ul https://blog.feedspot.com/cyber_security_rss_feeds/ am găsit un top
+al rss feed-urilor pe cybersecurity. Am ales 14 site-uri din primele 20. (selectia
+a fost pentru cele ce folosesc RSS 2.0).
+În continuare am creat un api de la zero in javascript peste node.js. Am folosit
+site-ul rss2josn.com pentru am converti rss feed-urile in json si apoi in obiecte
+javascript pentru a fi mai usor de manipulat. Pentru a crea propriul rss feed am
+folosit modulul rss. Pentru creeare site-ul m-am mai folosit de module express si http.
+Am creat un api care pentru /rss.xml/:category/:author/:searchTitle/:searchContent ofera un
+rss feed selectand din agregarea celor 14 site-uri pe cele care sunt in categoria data,
+scrise de autorul data, ce contin in text cuvinte cheie date sau ce contin in continut 
+cuvinte cheie date. Daca nu se doreste o filtrare dupa acestea se poate pune valoarea
+all pentru ele. Totul codul a fost scris de mine de la zero. Acest server l-am pus pe
+cloudul google. Pentru testare am mai folosit https://validator.w3.org/feed/check.cgi 
+sa vad daca este in regula si aplicatia pe mobil https://itunes.apple.com/us/app/free-rss-reader/id290537970?mt=8
+si add-on din chrome https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp/related?hl=en.
+
